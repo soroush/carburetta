@@ -53,6 +53,9 @@ dkms.conf
 
 # Visual studio
 .vs/
-build/
+build*/
 cinder.vcxproj.user
 /project/carburetta.vcxproj.user
+
+# VS Code
+checks.json
